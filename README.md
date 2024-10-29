@@ -1,4 +1,4 @@
-# Python-Checkers
+# Python-Checkers-Chess Code 2
 
 Get started with Python-Pygame!
 
